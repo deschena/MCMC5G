@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\gfoll\\anaconda3\\envs\\tf_env\\python.exe",
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "jupyter.jupyterServerType": "local"
+}
